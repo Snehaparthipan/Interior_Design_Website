@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <p>hii i am sneha</p>
+     <h1>im menaga</h1>
     </>
   )
 }
